@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "level=0": { "model": "immersivetech:block/empty" },
+    "level=1": { "model": "immersivetech:block/empty" },
+    "level=2": { "model": "immersivetech:block/empty" },
+    "level=3": { "model": "immersivetech:block/empty" },
+    "level=4": { "model": "immersivetech:block/empty" },
+    "level=5": { "model": "immersivetech:block/empty" },
+    "level=6": { "model": "immersivetech:block/empty" },
+    "level=7": { "model": "immersivetech:block/empty" },
+    "level=8": { "model": "immersivetech:block/empty" },
+    "level=9": { "model": "immersivetech:block/empty" },
+    "level=10": { "model": "immersivetech:block/empty" },
+    "level=11": { "model": "immersivetech:block/empty" },
+    "level=12": { "model": "immersivetech:block/empty" },
+    "level=13": { "model": "immersivetech:block/empty" },
+    "level=14": { "model": "immersivetech:block/empty" },
+    "level=15": { "model": "immersivetech:block/empty" }
+  }
+}

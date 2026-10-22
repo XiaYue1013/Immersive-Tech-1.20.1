@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "immersivetech:block/coke_oven_advanced_obj" },
+    "facing=east": { "model": "immersivetech:block/coke_oven_advanced_obj", "y": 90 },
+    "facing=south": { "model": "immersivetech:block/coke_oven_advanced_obj", "y": 180 },
+    "facing=west": { "model": "immersivetech:block/coke_oven_advanced_obj", "y": 270 }
+  }
+}

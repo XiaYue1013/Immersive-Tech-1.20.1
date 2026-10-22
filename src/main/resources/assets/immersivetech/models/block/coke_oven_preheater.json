@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "immersivetech:block/metal_device_coke_oven_preheater"
+  }
+}

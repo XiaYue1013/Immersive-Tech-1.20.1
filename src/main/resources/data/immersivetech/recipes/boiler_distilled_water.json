@@ -1,0 +1,7 @@
+{
+  "type": "immersivetech:boiler",
+  "input_fluid": "immersivetech:dist_water",
+  "input_amount": 200,
+  "output_amount": 150,
+  "time": 10
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GPL-3.0-only"
+issueTrackerURL="https://github.com/FerroO2000/Immersive-Tech/issues"
+
+[[mods]]
+modId="immersivetech"
+version="${file.jarVersion}"
+displayName="Immersive Tech"
+displayURL="https://github.com/FerroO2000/Immersive-Tech"
+authors="FerroO2000 and Immersive Tech contributors"
+description='''
+Original Immersive Tech port for Minecraft Forge 1.20.1.
+'''
+
+[[dependencies.immersivetech]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.immersivetech]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

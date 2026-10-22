@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "B B",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "B": { "item": "minecraft:iron_bars" }
+  },
+  "result": {
+    "item": "immersivetech:coke_oven_preheater",
+    "count": 1
+  }
+}

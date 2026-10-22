@@ -1,0 +1,6 @@
+{
+  "id": "immersivetech:alternator",
+  "size": [3, 3, 4],
+  "source_layout": "ferro2000-1.3.10",
+  "omitted_offsets": ["0,2,1", "1,2,1", "2,2,1"]
+}

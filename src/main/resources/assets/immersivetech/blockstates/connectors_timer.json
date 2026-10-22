@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "immersivetech:block/connectors_timer" },
+    "facing=east": { "model": "immersivetech:block/connectors_timer", "y": 90 },
+    "facing=south": { "model": "immersivetech:block/connectors_timer", "y": 180 },
+    "facing=west": { "model": "immersivetech:block/connectors_timer", "y": 270 }
+  }
+}

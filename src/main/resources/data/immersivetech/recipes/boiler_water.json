@@ -1,0 +1,7 @@
+{
+  "type": "immersivetech:boiler",
+  "input_fluid": "minecraft:water",
+  "input_amount": 200,
+  "output_amount": 100,
+  "time": 10
+}

@@ -1,0 +1,33 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+logs
+
+API_MIGRATION.md
+DEPENDENCY_AUDIT.md
+FEATURE_CHECKLIST.md
+LEGACY_BEHAVIOR.md
+PORTING_PLAN.md
+PORTING_PROGRESS.md
+TEST_RESULTS.md
+
+/LICENSE_AUDIT.md

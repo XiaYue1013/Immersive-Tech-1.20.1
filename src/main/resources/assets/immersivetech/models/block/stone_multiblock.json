@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "immersivetech:block/stone_multiblock_coke_oven_advanced"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "immersivetech:block/coke_oven_preheater" },
+    "facing=east": { "model": "immersivetech:block/coke_oven_preheater", "y": 90 },
+    "facing=south": { "model": "immersivetech:block/coke_oven_preheater", "y": 180 },
+    "facing=west": { "model": "immersivetech:block/coke_oven_preheater", "y": 270 }
+  }
+}

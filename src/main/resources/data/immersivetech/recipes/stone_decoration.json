@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "C"
+  ],
+  "key": {
+    "P": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "minecraft:bricks" }
+  },
+  "result": {
+    "item": "immersivetech:stone_decoration",
+    "count": 1
+  }
+}

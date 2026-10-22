@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "immersivetech:block/metal_multiblock" },
+    "facing=east": { "model": "immersivetech:block/metal_multiblock", "y": 90 },
+    "facing=south": { "model": "immersivetech:block/metal_multiblock", "y": 180 },
+    "facing=west": { "model": "immersivetech:block/metal_multiblock", "y": 270 }
+  }
+}

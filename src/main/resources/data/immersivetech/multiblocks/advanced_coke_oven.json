@@ -1,0 +1,6 @@
+{
+  "id": "immersivetech:coke_oven_advanced",
+  "size": [3, 4, 3],
+  "source_layout": "ferro2000-1.3.10",
+  "top_center_required": "minecraft:hopper"
+}

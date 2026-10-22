@@ -1,0 +1,10 @@
+{
+  "type": "immersivetech:distiller",
+  "input_fluid": "minecraft:water",
+  "input_amount": 200,
+  "output_fluid": "immersivetech:dist_water",
+  "output_amount": 100,
+  "energy": 50,
+  "time": 1,
+  "salt_chance": 0.001
+}

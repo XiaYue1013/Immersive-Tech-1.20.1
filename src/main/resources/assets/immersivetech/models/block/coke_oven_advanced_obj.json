@@ -1,0 +1,8 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "immersivetech:models/block/stone_multiblock/coke_oven_advanced.obj",
+  "textures": {
+    "particle": "immersivetech:block/stone_multiblock_coke_oven_advanced"
+  }
+}

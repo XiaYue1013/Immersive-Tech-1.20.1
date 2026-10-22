@@ -1,0 +1,9 @@
+{
+  "type": "immersivetech:coke_oven_advanced",
+  "input": {
+    "item": "minecraft:coal"
+  },
+  "output": "minecraft:charcoal",
+  "time": 1800,
+  "creosote_amount": 500
+}

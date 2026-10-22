@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "PPP",
+    "GQG"
+  ],
+  "key": {
+    "C": { "item": "minecraft:redstone" },
+    "G": { "tag": "forge:glass_panes" },
+    "P": { "item": "minecraft:iron_ingot" },
+    "Q": { "item": "minecraft:quartz" }
+  },
+  "result": {
+    "item": "immersivetech:connectors_timer",
+    "count": 1
+  }
+}
